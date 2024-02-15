@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tharcilap
-- 👀 I’m interested in JavaScript,HTML,CSS,+
-- 🌱 I’m currently learning JavaScript
-- 📫 tharcilap@gmail.com
+- 🌱 I’m currently working as Software Developer(Java, Spring, Angular). 
+- 📫 tharcila.pereira@outlook.com
 
 <!---
 tharcilap/tharcilap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
